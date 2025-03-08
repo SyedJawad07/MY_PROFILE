@@ -164,7 +164,7 @@ const ContactSection: React.FC = () => {
               <GlassmorphicCard>
                 <h3 className="text-lg font-bold mb-4">Connect</h3>
                 <div className="space-y-4">
-                  <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-3 rounded-md hover:bg-muted/50 transition-colors">
+                  <a href="https://github.com/SyedJawad07" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-3 rounded-md hover:bg-muted/50 transition-colors">
                     <div className="p-2 rounded-full bg-muted">
                       <Github className="w-5 h-5" />
                     </div>
